@@ -12,7 +12,7 @@
   font-family: Hanken Grotesk;
 }
 body {
-  background-color: hsl(221, 100%, 96%);
+  background-color: hsl(0, 0%, 100%);
   display: flex;
   justify-content: center;
   align-items:  center;
